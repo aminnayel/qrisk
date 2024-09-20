@@ -1,8 +1,5 @@
-
-
 body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;margin:0}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}.App{text-align:center}.App-logo{height:40vmin;pointer-events:none}@media (prefers-reduced-motion:no-preference){.App-logo{-webkit-animation:App-logo-spin 20s linear infinite;animation:App-logo-spin 20s linear infinite}}.App-header{align-items:center;background-color:#282c34;color:#fff;display:flex;flex-direction:column;font-size:calc(10px + 2vmin);justify-content:center;min-height:100vh}.App-link{color:#61dafb}@-webkit-keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}.App{display:flex!important;flex-direction:column!important;text-align:left!important}.App>div:nth-child(22){margin:auto;margin-top:20px!important}.App>div:nth-child(22)>input:first-child{border-color:transparent!important;font-family:serif;font-family:initial;font-size:30px;font-weight:700;pointer-events:none;text-align:center}hr.dashed{border-top:3px dashed #bbb}hr.dotted{border-top:3px dotted #bbb}hr.solid{border-top:3px solid #bbb}hr.rounded{border-radius:5px;border-top:8px solid #bbb}#root,.react-date-picker__clear-button__icon.react-date-picker__button__icon{display:none!important}body,html{height:100%;margin:0;padding:0}iframe{bottom:0;left:0;position:absolute;right:0;top:0}
 /*# sourceMappingURL=main.e5a79911.css.map*/
-
 
 body {
   font-family: Inter,sans-serif;
@@ -10,5 +7,3 @@ body {
   background-color: transparent !important;
 }
 
-
-/* BAZRAMEET */
